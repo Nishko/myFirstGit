@@ -1,1 +1,9 @@
-console.log("hello world!")
+let x = addFunc(5, 10);
+
+function addFunc(a, b) {
+    return a + b;
+}
+
+console.log("hello world!", x)
+
+
