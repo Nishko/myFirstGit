@@ -4,6 +4,6 @@ function addFunc(a, b) {
     return a + b;
 }
 
-console.log("hello world!", x)
+console.log("hello world and irown", x)
 
 
